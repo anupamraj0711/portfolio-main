@@ -51,6 +51,20 @@ const projects = [
       github: '#',
       demo: null,
     },
+      {
+  title: 'Smart Video Surveillance System',
+  subtitle: 'IoT-Based Security & Monitoring System',
+  description:
+    'Developed a hybrid hardware–software surveillance system using ESP32, Arduino UNO, RFID, and ESP32-CAM modules integrated with a web-based dashboard. The system enables real-time user authentication, motion detection using IR sensors, live camera streaming, and secure access monitoring.',
+  tags: ['ESP32', 'Arduino', 'RFID', 'IoT', 'HTML', 'CSS', 'JavaScript'],
+  metrics: [
+    { label: 'System Type', value: 'IoT Surveillance' },
+    { label: 'Features', value: 'Live Monitoring' },
+  ],
+  gradient: 'from-green-500 to-emerald-600',
+  github: 'https://github.com/anupamraj0711',
+  demo: null,
+},
 {
   title: 'Agentic AI for Personalized Healthcare Coordination System',
   subtitle: 'Capstone Project – Intelligent Healthcare Automation',
@@ -66,20 +80,7 @@ const projects = [
   demo: null,
   inProgress: true,
 },
-  {
-  title: 'Smart Video Surveillance System',
-  subtitle: 'IoT-Based Security & Monitoring System',
-  description:
-    'Developed a hybrid hardware–software surveillance system using ESP32, Arduino UNO, RFID, and ESP32-CAM modules integrated with a web-based dashboard. The system enables real-time user authentication, motion detection using IR sensors, live camera streaming, and secure access monitoring.',
-  tags: ['ESP32', 'Arduino', 'RFID', 'IoT', 'HTML', 'CSS', 'JavaScript'],
-  metrics: [
-    { label: 'System Type', value: 'IoT Surveillance' },
-    { label: 'Features', value: 'Live Monitoring' },
-  ],
-  gradient: 'from-green-500 to-emerald-600',
-  github: 'https://github.com/anupamraj0711',
-  demo: null,
-}
+
   ];
 
   return (
