@@ -85,3 +85,9 @@ export function Footer() {
     </footer>
   );
 }
+
+
+
+//git add .
+//git commit -m "update"
+//git push
