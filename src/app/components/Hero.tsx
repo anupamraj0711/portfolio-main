@@ -137,7 +137,7 @@ export function Hero() {
               <Github className="w-5 h-5" />
             </a>
             <a
-              href="www.linkedin.com/in/anupam--raj"
+              href="https://www.linkedin.com/in/anupam--raj"
               target="_blank"
               rel="noopener noreferrer"
               className="w-12 h-12 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 flex items-center justify-center hover:bg-white/20 hover:border-blue-400 transition-all duration-300"
@@ -145,7 +145,7 @@ export function Hero() {
               <Linkedin className="w-5 h-5" />
             </a>
             <a
-              href="anupam.raj23@st.niituniversity.in"
+              href="mailto:anupam.raj23@st.niituniversity.in"
               className="w-12 h-12 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 flex items-center justify-center hover:bg-white/20 hover:border-blue-400 transition-all duration-300"
             >
               <Mail className="w-5 h-5" />
