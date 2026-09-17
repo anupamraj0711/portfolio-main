@@ -83,7 +83,7 @@ Anupam Raj
 AI Engineer | Data Scientist | Data Analytics  
 
 GitHub: https://github.com/anupamraj0711  
-LinkedIn: https://www.linkedin.com/in/anupam--raj
+LinkedIn: https://linkedin.com/in/anupam--raj
 
 ---
 
